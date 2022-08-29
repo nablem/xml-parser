@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feed xmlns="http://www.bazaarvoice.com/xs/PRR/ProductFeed/14.7" name="catego" incremental="false" extractDate="2018-04-25T12:00:00.000000">
+    <Brands>
+        <Brand>
+            <ExternalId>catego-brand</ExternalId>
+            <Name>Catego</Name>
+        </Brand>
+    </Brands>
+    <Categories>
+        <Category>
+            <ExternalId>catego-category</ExternalId>
+            <Name>Catego</Name>
+            <CategoryPageUrl>http://www.categocat.com/about-the-product/</CategoryPageUrl>
+            <ImageUrl>http://www.categocat.com/wp-content/uploads/2016/09/Catego-AbouttheProduct-ProductImage-Mobile-Registered.png</ImageUrl>
+        </Category>
+    </Categories>
+    <Products>
+        <Product>
+            <ExternalId>catego</ExternalId>
+            <Name>Catego for Cats</Name>
+            <BrandExternalId>catego-brand</BrandExternalId>
+            <CategoryExternalId>catego-category</CategoryExternalId>
+            <ProductPageUrl>http://www.categocat.com/about-the-product/</ProductPageUrl>
+            <ImageUrl>http://www.categocat.com/wp-content/uploads/2016/09/Catego-AbouttheProduct-ProductImage-Mobile-Registered.png</ImageUrl>
+            <UPCs>
+                <UPC>8513210074</UPC>
+            </UPCs>
+            <Description>Catego® was designed specifically for cats and only cats. It is the only product with the unique combination of these three proven active ingredients: Dinotefuran, Fipronil and Pyriproxyfen.</Description>
+            <ManufacturerPartNumbers>
+                <ManufacturerPartNumber>26-12345-8Z</ManufacturerPartNumber>
+            </ManufacturerPartNumbers>
+        </Product>
+        <Product>
+            <ExternalId>catego</ExternalId>
+            <Name>Catego for Dogs</Name>
+            <BrandExternalId>catego-brand</BrandExternalId>
+            <CategoryExternalId>catego-category</CategoryExternalId>
+            <ProductPageUrl>http://www.categocat.com/about-the-product/</ProductPageUrl>
+            <ImageUrl>http://www.categocat.com/wp-content/uploads/2016/09/Catego-AbouttheProduct-ProductImage-Mobile-Registered.png</ImageUrl>
+            <UPCs>
+                <UPC>8513210074</UPC>
+            </UPCs>
+            <Description>Catego® was designed specifically for cats and only cats. It is the only product with the unique combination of these three proven active ingredients: Dinotefuran, Fipronil and Pyriproxyfen.</Description>
+            <ManufacturerPartNumbers>
+                <ManufacturerPartNumber>26-12345-8Z</ManufacturerPartNumber>
+            </ManufacturerPartNumbers>
+        </Product>
+    </Products>
+</Feed>
