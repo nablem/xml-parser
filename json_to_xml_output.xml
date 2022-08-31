@@ -1,0 +1,15 @@
+<Feed extractDate="2018-04-25T12:00:00.000000" incremental="false" name="catego_catalog_feed" xmlns="http://www.bazaarvoice.com/xs/PRR/ProductFeed/14.7">
+	<Brands>
+		<Brand>
+			<ExternalBrandId>catego-brand</ExternalBrandId>
+			<Name>Catego</Name>
+		</Brand>
+	</Brands>
+	<Products>Here are the Products</Products>
+	<Categories>
+		<Category>
+			<ExternalCatId>catego-category</ExternalCatId>
+			<CategoryPageUrl henbbillo="world">http://www.categocat.com/about-the-product/</CategoryPageUrl>
+		</Category>
+	</Categories>
+</Feed>
